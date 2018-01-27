@@ -10,10 +10,10 @@ namespace TestForGitHub
     {
         static void Main(string[] args)
         {
-            Console.Write("Download22");
-            Console.Write("Download");
-            Console.Write("Download");
-            Console.Write("Download");
+            Console.Write("a");
+            Console.Write("aassad");
+            Console.Write("aaa");
+            Console.Write("asdasdasd");
         }
     }
 }
